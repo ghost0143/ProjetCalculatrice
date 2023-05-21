@@ -1,6 +1,6 @@
 # EXPLICATION DU CODE
 
-Lien vers la vidéo: https://www.youtube.com/watch?v=0fBpvbldMMs&t=440s
+Lien vers la vidéo: https://www.youtube.com/watch?v=MH3Ci9y2oPE
 
 ### Introduction
 Le projet présent est une implémentation d'une calculatrice simple en utilisant le pattern Observer en complément de l'architecture Modèle-Vue-Contrôleur (MVC). Cette combinaison de conception permet de séparer les responsabilités, d'améliorer la maintenabilité du code et de faciliter la communication entre les différents composants du système.
